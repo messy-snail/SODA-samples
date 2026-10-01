@@ -1,8 +1,8 @@
 {
-  "name": "Las Vegas · WorldView-3 0.3 m",
+  "name": "Las Vegas · WorldView-3",
   "label": {
-    "ko": "라스베이거스 · WorldView-3 0.3 m",
-    "en": "Las Vegas · WorldView-3 0.3 m"
+    "ko": "라스베이거스 · WorldView-3",
+    "en": "Las Vegas · WorldView-3"
   },
   "source_format": "geotiff",
   "sensor": "optical",
@@ -10,11 +10,12 @@
   "south_deg": 36.13152960000628,
   "east_deg": -115.15294530005777,
   "north_deg": 36.15308910000009,
+  "footprint": null,
   "min_zoom": 13,
   "max_zoom": 19,
   "tile_format": "mixed",
   "tile_count": 1795,
-  "footprint": null,
+  "gsd_m": 0.3,
   "attribution": "SpaceNet on AWS (Maxar WorldView-3)",
   "license": "CC BY-SA 4.0",
   "origin": null,

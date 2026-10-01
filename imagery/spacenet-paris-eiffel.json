@@ -1,8 +1,8 @@
 {
-  "name": "Paris, Eiffel Tower · WorldView-3 0.3 m",
+  "name": "Paris, Eiffel Tower · WorldView-3",
   "label": {
-    "ko": "파리 에펠탑 · WorldView-3 0.3 m",
-    "en": "Paris, Eiffel Tower · WorldView-3 0.3 m"
+    "ko": "파리 에펠탑 · WorldView-3",
+    "en": "Paris, Eiffel Tower · WorldView-3"
   },
   "source_format": "geotiff",
   "sensor": "optical",
@@ -10,11 +10,12 @@
   "south_deg": 48.85587630000627,
   "east_deg": 2.3100120000001723,
   "north_deg": 48.87743580000011,
+  "footprint": null,
   "min_zoom": 13,
   "max_zoom": 19,
   "tile_format": "mixed",
   "tile_count": 2299,
-  "footprint": null,
+  "gsd_m": 0.3,
   "attribution": "SpaceNet on AWS (Maxar WorldView-3)",
   "license": "CC BY-SA 4.0",
   "origin": null,

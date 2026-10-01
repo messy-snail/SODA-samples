@@ -1,8 +1,8 @@
 {
-  "name": "Port of Busan · Umbra SAR 0.35 m",
+  "name": "Port of Busan · Umbra",
   "label": {
-    "ko": "부산항 · Umbra SAR 0.35 m",
-    "en": "Port of Busan · Umbra SAR 0.35 m"
+    "ko": "부산항 · Umbra",
+    "en": "Port of Busan · Umbra"
   },
   "source_format": "geotiff",
   "sensor": "sar",
@@ -10,11 +10,12 @@
   "south_deg": 35.08759682298452,
   "east_deg": 129.10347498628084,
   "north_deg": 35.12251509510441,
+  "footprint": null,
   "min_zoom": 13,
   "max_zoom": 19,
   "tile_format": "mixed",
   "tile_count": 3329,
-  "footprint": null,
+  "gsd_m": 0.35,
   "attribution": "Umbra Open Data Program",
   "license": "CC BY 4.0",
   "origin": null,

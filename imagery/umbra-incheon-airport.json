@@ -1,8 +1,8 @@
 {
-  "name": "Incheon Airport · Umbra SAR 0.9 m",
+  "name": "Incheon Airport · Umbra",
   "label": {
-    "ko": "인천공항 · Umbra SAR 0.9 m",
-    "en": "Incheon Airport · Umbra SAR 0.9 m"
+    "ko": "인천공항 · Umbra",
+    "en": "Incheon Airport · Umbra"
   },
   "source_format": "geotiff",
   "sensor": "sar",
@@ -10,11 +10,12 @@
   "south_deg": 37.44423415043139,
   "east_deg": 126.46428532092808,
   "north_deg": 37.49163575724965,
+  "footprint": null,
   "min_zoom": 12,
   "max_zoom": 18,
   "tile_format": "mixed",
   "tile_count": 1623,
-  "footprint": null,
+  "gsd_m": 0.9,
   "attribution": "Umbra Open Data Program",
   "license": "CC BY 4.0",
   "origin": null,

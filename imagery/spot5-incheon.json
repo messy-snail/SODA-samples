@@ -1,8 +1,8 @@
 {
-  "name": "Incheon · SPOT 5 5 m",
+  "name": "Incheon · SPOT 5",
   "label": {
-    "ko": "인천 · SPOT 5 5 m",
-    "en": "Incheon · SPOT 5 5 m"
+    "ko": "인천 · SPOT 5",
+    "en": "Incheon · SPOT 5"
   },
   "source_format": "scene",
   "sensor": "optical",
@@ -10,10 +10,6 @@
   "south_deg": 37.02193852376771,
   "east_deg": 127.0418064243708,
   "north_deg": 37.6741844444785,
-  "min_zoom": 8,
-  "max_zoom": 15,
-  "tile_format": "mixed",
-  "tile_count": 5479,
   "footprint": [
     126.368947,
     37.674158,
@@ -24,6 +20,11 @@
     126.214876,
     37.147539
   ],
+  "min_zoom": 8,
+  "max_zoom": 15,
+  "tile_format": "mixed",
+  "tile_count": 5479,
+  "gsd_m": 5.0,
   "attribution": "SPOT images acquired by CNES's Spot World Heritage Programme",
   "license": "Open Licence 2.0 (Etalab)",
   "origin": null,

@@ -1,8 +1,8 @@
 {
-  "name": "Giza Pyramids · Capella SAR 0.5 m",
+  "name": "Giza Pyramids · Capella",
   "label": {
-    "ko": "기자 피라미드 · Capella SAR 0.5 m",
-    "en": "Giza Pyramids · Capella SAR 0.5 m"
+    "ko": "기자 피라미드 · Capella",
+    "en": "Giza Pyramids · Capella"
   },
   "source_format": "geotiff",
   "sensor": "sar",
@@ -10,11 +10,12 @@
   "south_deg": 29.96324860165488,
   "east_deg": 31.147790876572262,
   "north_deg": 29.990749426932016,
+  "footprint": null,
   "min_zoom": 13,
   "max_zoom": 19,
   "tile_format": "mixed",
   "tile_count": 2914,
-  "footprint": null,
+  "gsd_m": 0.5,
   "attribution": "Capella Space Open Data",
   "license": "CC BY 4.0",
   "origin": null,
