@@ -1,0 +1,23 @@
+{
+  "name": "Lahaina, Hawaii · Maxar 0.5 m",
+  "label": {
+    "ko": "라하이나 (하와이) · Maxar 0.5 m",
+    "en": "Lahaina, Hawaii · Maxar 0.5 m"
+  },
+  "source_format": "geotiff",
+  "sensor": "optical",
+  "west_deg": -156.6933982849802,
+  "south_deg": 20.872798609892,
+  "east_deg": -156.65845829420275,
+  "north_deg": 20.89648705854434,
+  "min_zoom": 13,
+  "max_zoom": 19,
+  "tile_format": "mixed",
+  "tile_count": 2470,
+  "footprint": null,
+  "attribution": "Maxar Open Data Program",
+  "license": "CC BY-NC 4.0",
+  "origin": "maxar:Maui-Hawaii-fires-Aug-23/04/122000330002/2023-08-12/10300100EB15FF00",
+  "acquired_at": "2023-08-12T21:12:49.000Z",
+  "created_at": "2026-10-01T15:13:03.391Z"
+}

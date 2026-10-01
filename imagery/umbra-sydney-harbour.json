@@ -1,0 +1,23 @@
+{
+  "name": "Sydney Harbour · Umbra SAR 0.5 m",
+  "label": {
+    "ko": "시드니 항 · Umbra SAR 0.5 m",
+    "en": "Sydney Harbour · Umbra SAR 0.5 m"
+  },
+  "source_format": "geotiff",
+  "sensor": "sar",
+  "west_deg": 151.1920499994715,
+  "south_deg": -33.873453367780115,
+  "east_deg": 151.2339545849471,
+  "north_deg": -33.83854571430566,
+  "min_zoom": 13,
+  "max_zoom": 19,
+  "tile_format": "mixed",
+  "tile_count": 3225,
+  "footprint": null,
+  "attribution": "Umbra Open Data Program",
+  "license": "CC BY 4.0",
+  "origin": null,
+  "acquired_at": "2025-05-08T12:51:40.000Z",
+  "created_at": "2026-10-01T15:30:56.900Z"
+}

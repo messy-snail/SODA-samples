@@ -1,0 +1,23 @@
+{
+  "name": "Wajima, Japan · Maxar 0.5 m",
+  "label": {
+    "ko": "와지마 (일본) · Maxar 0.5 m",
+    "en": "Wajima, Japan · Maxar 0.5 m"
+  },
+  "source_format": "geotiff",
+  "sensor": "optical",
+  "west_deg": 136.86971537965846,
+  "south_deg": 37.395785720432166,
+  "east_deg": 136.9157993019576,
+  "north_deg": 37.43254415744081,
+  "min_zoom": 12,
+  "max_zoom": 19,
+  "tile_format": "mixed",
+  "tile_count": 4760,
+  "footprint": null,
+  "attribution": "Maxar Open Data Program",
+  "license": "CC BY-NC 4.0",
+  "origin": "maxar:Japan-Earthquake-Jan-2024/53/120022100023/2024-01-02/10300100F316CD00",
+  "acquired_at": "2024-01-02T01:57:51.000Z",
+  "created_at": "2026-10-01T15:12:32.183Z"
+}

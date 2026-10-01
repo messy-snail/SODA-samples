@@ -1,0 +1,23 @@
+{
+  "name": "Central Seoul · Umbra SAR 0.2 m",
+  "label": {
+    "ko": "서울 도심 · Umbra SAR 0.2 m",
+    "en": "Central Seoul · Umbra SAR 0.2 m"
+  },
+  "source_format": "geotiff",
+  "sensor": "sar",
+  "west_deg": 126.97861373437284,
+  "south_deg": 37.541393914095124,
+  "east_deg": 127.0273421242576,
+  "north_deg": 37.58018482992943,
+  "min_zoom": 12,
+  "max_zoom": 19,
+  "tile_format": "mixed",
+  "tile_count": 3566,
+  "footprint": null,
+  "attribution": "Umbra Open Data Program",
+  "license": "CC BY 4.0",
+  "origin": null,
+  "acquired_at": "2024-04-13T12:43:27.000Z",
+  "created_at": "2026-10-01T15:28:10.774Z"
+}

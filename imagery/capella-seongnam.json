@@ -1,0 +1,23 @@
+{
+  "name": "Seongnam · Capella SAR 0.6 m",
+  "label": {
+    "ko": "성남 · Capella SAR 0.6 m",
+    "en": "Seongnam · Capella SAR 0.6 m"
+  },
+  "source_format": "geotiff",
+  "sensor": "sar",
+  "west_deg": 127.09699267058039,
+  "south_deg": 37.39825756227234,
+  "east_deg": 127.13155101409507,
+  "north_deg": 37.42582351272507,
+  "min_zoom": 13,
+  "max_zoom": 19,
+  "tile_format": "mixed",
+  "tile_count": 3466,
+  "footprint": null,
+  "attribution": "Capella Space Open Data",
+  "license": "CC BY 4.0",
+  "origin": null,
+  "acquired_at": "2024-01-04T01:54:00.000Z",
+  "created_at": "2026-10-01T15:35:12.339Z"
+}

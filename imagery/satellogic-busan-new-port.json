@@ -1,0 +1,23 @@
+{
+  "name": "Busan New Port · Satellogic 1 m",
+  "label": {
+    "ko": "부산신항 · Satellogic 1 m",
+    "en": "Busan New Port · Satellogic 1 m"
+  },
+  "source_format": "geotiff",
+  "sensor": "optical",
+  "west_deg": 128.78420839867448,
+  "south_deg": 35.0413150072112,
+  "east_deg": 128.84755337904863,
+  "north_deg": 35.114126248257236,
+  "min_zoom": 11,
+  "max_zoom": 17,
+  "tile_format": "mixed",
+  "tile_count": 1003,
+  "footprint": null,
+  "attribution": "Satellogic EarthView",
+  "license": "CC BY 4.0",
+  "origin": null,
+  "acquired_at": "2022-10-28T01:52:22.000Z",
+  "created_at": "2026-10-01T15:26:05.836Z"
+}

@@ -1,0 +1,2 @@
+# Tile archives are SQLite files: never diffed, merged or line-ending converted.
+*.mbtiles binary
